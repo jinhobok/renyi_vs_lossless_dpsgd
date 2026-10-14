@@ -1,5 +1,5 @@
 # renyi_vs_lossless_dpsgd
-A repository for reproducing the numerical results in the paper "Can Rényi Accountants Beat Lossless Accountants for DP-SGD?"
+A repository for reproducing the numerical results in the paper ["Can Rényi Accountants Beat Lossless Accountants for DP-SGD?"](https://arxiv.org/abs/2610.17120)
 
 # Files
 + `asymp_renyi_vs_lossless.py`: code for generating Figure 4 (asymptotic comparison between our Rényi accountant and lossless accountant)
